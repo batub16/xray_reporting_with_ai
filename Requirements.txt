@@ -1,8 +1,0 @@
-tensorflow
-matplotlib
-keras
-numpy
-pandas
-opencv-python
-Pillow
-tqdm
