@@ -51,12 +51,8 @@ The dataset used for this project is publicly available at [OpenI](https://openi
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Acknowledgments
 
 - The dataset is provided by OpenI and is available [here](https://openi.nlm.nih.gov/).
-- Any additional acknowledgments, such as frameworks or libraries used, should be listed here.
 
